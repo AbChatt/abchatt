@@ -2,6 +2,7 @@
 
 <!--
 **AbChatt/abchatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I'm Abhishek, a third year undergraduate who's passionate about using technology to drive societal change. I'm keenly interested in backend development and AI and love learning about new tech!
 
